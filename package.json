@@ -1,5 +1,5 @@
 {
-  "name": "liquity",
+  "name": "liquity Test",
   "private": true,
   "workspaces": {
     "packages": [
